@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.img123 {
+  height: 300px;
+  width: 300px;
+}
+.oneTwo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
